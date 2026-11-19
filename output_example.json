@@ -1,0 +1,5 @@
+{
+    success: "(bool)",
+    msg : "(string) non null comment (the string can still be empty)"
+    data: "(valid json string) opeque data type for the outout content"
+}

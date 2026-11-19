@@ -1,0 +1,5 @@
+Function:
+  - name: "(string) the name of the function to be called"
+  - paramaters:
+      -int: "(int) an integer parameter"
+      -string: "(string) a string parameter"
